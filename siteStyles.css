@@ -1,0 +1,18 @@
+:root {
+    --d4djPurple: #BD41F5;
+    --musePink: #FB4192;
+    --aqoursBlue: #4CC4FF;
+    --nijiOrange: #F39800;
+    --liellaPurple: #8C4794;
+    --hasuPeach: #FA92A3;
+}
+p, li, ul {
+    color: black;
+    font-family: "Helvetica Rounded", Arial, sans-serif;
+}
+.d4djTitle{
+    color: var(--d4djPurple);
+    font-weight: bold;
+    font-size: 48;
+    text-decoration: underline;
+}
